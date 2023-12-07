@@ -26,6 +26,7 @@ public class WsdlOperationFlyweight implements Flyweight {
         this.wsdlOperation = wsdlOperation;
     }
 
+
     /**
      * 获取soap协议格式的请求报文
      * @return 返回值为原始的请求报文
